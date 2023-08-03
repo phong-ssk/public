@@ -1,0 +1,5 @@
+Thư mời
+
+Họ và tên: {{ name }}
+
+Tuổi: {{ age }}
